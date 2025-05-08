@@ -1,0 +1,13 @@
+# Ignorar configuración de IntelliJ
+.idea/
+*.iml
+
+# Ignorar toda la carpeta data y su contenido
+data/*.mp4
+
+# Ignorar modelos de YOLOv5 (.pt)
+*.pt
+
+# (Opcional) Ignorar cachés de Python
+__pycache__/
+*.pyc
